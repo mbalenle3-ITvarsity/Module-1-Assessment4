@@ -1,0 +1,22 @@
+h1{
+    color: antiquewhite;
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center
+}
+p{
+    font-weight: 700;
+    text-decoration: line-through;
+}
+table{
+font-family: Helvertica, sans-serif;
+border-collapse: collapse;
+border-width: 1px;
+border-style:solid;
+border-color: #696DCC
+}
+th{
+    font-weight: 800;
+    background-color:#353CBC;
+    color:black;
+}
